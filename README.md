@@ -6,11 +6,6 @@
 
 vue2.0 + webpack + vueRouter + elementUi + Handsontable.js
 
-# 示例（images）
-
-![image](https://github.com/SuperWenZai/goodsplanPc/blob/master/src/assets/images/goodsplanPc1.png)
-![image](https://github.com/SuperWenZai/goodsplanPc/blob/master/src/assets/images/goodsplanPc2.png)
-
 # Build Setup
 
 ``` bash
